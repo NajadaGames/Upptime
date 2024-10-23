@@ -25,6 +25,8 @@ status-website:
   introTitle: "Najada.games - Discover the world of board games"
   introMessage: Discover the world of tabletop games! Trading and collectible card games - Magic The Gathering, Pokémon, Yu-Gi-Oh!, Digimon, Flesh and Blood, and more. The best board games and miniature games. Everything conveniently in one place! [**najada.games**](https://www.najada.games/)
   navbar:
+    - title: najada.games
+      href: https://www.najada.games/
     - title: Upptime
       href: /
     - title: GitHub
