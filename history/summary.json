@@ -22,19 +22,19 @@
     "url": "https://najada.games/api/v1/auth/hello/",
     "icon": "https://icons.duckduckgo.com/ip3/najada.games.ico",
     "slug": "najada-be",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 842,
-    "timeDay": 842,
-    "timeWeek": 842,
-    "timeMonth": 842,
-    "timeYear": 842,
+    "status": "up",
+    "uptime": "89.39%",
+    "uptimeDay": "89.39%",
+    "uptimeWeek": "89.39%",
+    "uptimeMonth": "89.39%",
+    "uptimeYear": "89.39%",
+    "time": 839,
+    "timeDay": 839,
+    "timeWeek": 839,
+    "timeMonth": 839,
+    "timeYear": 839,
     "dailyMinutesDown": {
-      "2024-10-23": 0
+      "2024-10-23": 72
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://client.magiccardbuyer.eu/search/?q=akroma&page=1",
     "icon": "https://icons.duckduckgo.com/ip3/client.magiccardbuyer.eu.ico",
     "slug": "magic-card-buyer-be",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1529,
-    "timeDay": 1529,
-    "timeWeek": 1529,
-    "timeMonth": 1529,
-    "timeYear": 1529,
+    "status": "up",
+    "uptime": "89.39%",
+    "uptimeDay": "89.39%",
+    "uptimeWeek": "89.39%",
+    "uptimeMonth": "89.39%",
+    "uptimeYear": "89.39%",
+    "time": 1587,
+    "timeDay": 1587,
+    "timeWeek": 1587,
+    "timeMonth": 1587,
+    "timeYear": 1587,
     "dailyMinutesDown": {
-      "2024-10-23": 0
+      "2024-10-23": 72
     }
   }
 ]
