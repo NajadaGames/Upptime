@@ -4,9 +4,9 @@
     "url": "https://www.najada.games/",
     "icon": "https://icons.duckduckgo.com/ip3/www.najada.games.ico",
     "slug": "najada-fe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1332,
     "timeMonth": 1295,
     "timeYear": 1137,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-13": 0
+    }
   },
   {
     "name": "Najada BE",
