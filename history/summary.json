@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1173,
-    "timeDay": 1075,
-    "timeWeek": 1343,
-    "timeMonth": 1390,
+    "timeDay": 0,
+    "timeWeek": 1322,
+    "timeMonth": 1399,
     "timeYear": 1173,
     "dailyMinutesDown": {}
   },
@@ -27,19 +27,18 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 1002,
-    "timeDay": 1037,
-    "timeWeek": 1061,
+    "timeDay": 0,
+    "timeWeek": 1050,
     "timeMonth": 1003,
-    "timeYear": 1002,
+    "timeYear": 1003,
     "dailyMinutesDown": {
       "2025-10-01": 55,
       "2025-08-12": 92,
       "2025-06-06": 18,
       "2025-03-04": 18,
-      "2024-11-18": 18,
-      "2024-10-23": 72
+      "2024-11-18": 18
     }
   },
   {
@@ -47,18 +46,19 @@
     "url": "https://magiccardbuyer.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/magiccardbuyer.eu.ico",
     "slug": "magic-card-buyer-fe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 759,
-    "timeDay": 517,
-    "timeWeek": 844,
+    "timeDay": 0,
+    "timeWeek": 861,
     "timeMonth": 823,
-    "timeYear": 759,
+    "timeYear": 758,
     "dailyMinutesDown": {
+      "2025-10-23": 0,
       "2025-10-01": 54
     }
   },
@@ -67,26 +67,26 @@
     "url": "https://client.magiccardbuyer.eu/search/?q=akroma&page=1",
     "icon": "https://icons.duckduckgo.com/ip3/client.magiccardbuyer.eu.ico",
     "slug": "magic-card-buyer-be",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "99.41%",
+    "uptimeYear": "99.43%",
     "time": 2124,
-    "timeDay": 2569,
-    "timeWeek": 2621,
-    "timeMonth": 2724,
-    "timeYear": 2124,
+    "timeDay": 0,
+    "timeWeek": 2677,
+    "timeMonth": 2734,
+    "timeYear": 2129,
     "dailyMinutesDown": {
+      "2025-10-23": 0,
       "2025-10-01": 54,
       "2025-08-12": 92,
       "2025-03-04": 18,
       "2024-12-11": 877,
       "2024-12-10": 1440,
       "2024-12-09": 520,
-      "2024-11-18": 18,
-      "2024-10-23": 72
+      "2024-11-18": 18
     }
   }
 ]
