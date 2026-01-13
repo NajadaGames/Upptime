@@ -4,19 +4,19 @@
     "url": "https://www.najada.games/",
     "icon": "https://icons.duckduckgo.com/ip3/www.najada.games.ico",
     "slug": "najada-fe",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 1170,
-    "timeDay": 1309,
-    "timeWeek": 1155,
-    "timeMonth": 1124,
-    "timeYear": 1182,
+    "time": 1169,
+    "timeDay": 1207,
+    "timeWeek": 1138,
+    "timeMonth": 1120,
+    "timeYear": 1181,
     "dailyMinutesDown": {
-      "2026-01-13": 0
+      "2026-01-13": 25
     }
   },
   {
