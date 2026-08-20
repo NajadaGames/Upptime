@@ -4,20 +4,20 @@
     "url": "https://www.najada.games/",
     "icon": "https://icons.duckduckgo.com/ip3/www.najada.games.ico",
     "slug": "najada-fe",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1121,
-    "timeDay": 138,
-    "timeWeek": 1040,
-    "timeMonth": 1268,
-    "timeYear": 1086,
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 1122,
+    "timeDay": 1031,
+    "timeWeek": 1144,
+    "timeMonth": 1288,
+    "timeYear": 1089,
     "dailyMinutesDown": {
       "2026-01-13": 25,
-      "2026-08-20": 0
+      "2026-08-20": 21
     }
   },
   {
@@ -33,7 +33,7 @@
     "uptimeYear": "99.91%",
     "time": 993,
     "timeDay": 672,
-    "timeWeek": 678,
+    "timeWeek": 662,
     "timeMonth": 1155,
     "timeYear": 980,
     "dailyMinutesDown": {
@@ -57,7 +57,7 @@
     "uptimeYear": "99.99%",
     "time": 766,
     "timeDay": 759,
-    "timeWeek": 683,
+    "timeWeek": 696,
     "timeMonth": 757,
     "timeYear": 771,
     "dailyMinutesDown": {
@@ -77,7 +77,7 @@
     "uptimeYear": "99.91%",
     "time": 2494,
     "timeDay": 3066,
-    "timeWeek": 2297,
+    "timeWeek": 2277,
     "timeMonth": 3101,
     "timeYear": 2623,
     "dailyMinutesDown": {
